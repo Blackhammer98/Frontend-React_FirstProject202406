@@ -1,0 +1,35 @@
+
+
+.Subheader-navbar{
+    padding: 0 32px;
+    margin: 0 15px 0 15px;
+    position: relative;
+    
+}
+
+
+
+.Subheader-nav-list{
+    
+    list-style: none;
+    font-size: medium;
+    gap: 5px;
+    
+
+}
+.Navbar-list{
+    
+    
+    display: flex;
+    border-bottom: ridge 5px whitesmoke;
+
+
+   && li{padding-left: 50px;
+         margin-left:1px;
+         padding-right: 50px;
+         cursor: pointer;
+         
+
+
+    }
+}
